@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\01_HW\\HW_01_OT\\HW_01_OT\\HW_01_OT.csproj",
+      "projectUniqueName": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\HomeWorks_WebAPI\\01_HW\\HW_01_OT\\HW_01_OT\\HW_01_OT.csproj",
       "projectName": "HW_01_OT",
-      "projectPath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\01_HW\\HW_01_OT\\HW_01_OT\\HW_01_OT.csproj",
+      "projectPath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\HomeWorks_WebAPI\\01_HW\\HW_01_OT\\HW_01_OT\\HW_01_OT.csproj",
       "packagesPath": "C:\\Users\\Ognen\\.nuget\\packages\\",
-      "outputPath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\01_HW\\HW_01_OT\\HW_01_OT\\obj\\",
+      "outputPath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\HomeWorks_WebAPI\\01_HW\\HW_01_OT\\HW_01_OT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMus8rXn0WdEmwvVVtwyDVu+P1Z0fu/pSaLrK/RuV2v9VTetXzPRAKJf0KG0JXbb6EE47I1kE6j4AXWjMDQRQA==",
+  "dgSpecHash": "hvunYfOQkU4fNehufm4Iups5T9ZefoJIg8qQObpyMtQFZjVpIhDrPAqdTc6hOuU70WNO7mwOLYOCFkyQNq10lA==",
   "success": true,
-  "projectFilePath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\01_HW\\HW_01_OT\\HW_01_OT\\HW_01_OT.csproj",
+  "projectFilePath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\HomeWorks_WebAPI\\01_HW\\HW_01_OT\\HW_01_OT\\HW_01_OT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ognen\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

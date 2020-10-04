@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9l+PFicPH7eu2F/UOuM01MYJBjNhxHX+4Bfxr0FOgczgN9aphQ/260SD7w9wJolpoAHck0aoVFjjEAnSMLhdQ==",
+  "success": true,
+  "projectFilePath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\HomeWorks_WebAPI\\02_HW\\PizzaApp - Architecture\\PizzaApp\\API_Converted\\API_Converted.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ognen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ognen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ognen\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ognen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ognen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ognen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

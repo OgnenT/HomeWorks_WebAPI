@@ -1,0 +1,12 @@
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\bin\Debug\netstandard2.0\DomainModels.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\bin\Debug\netstandard2.0\DomainModels.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

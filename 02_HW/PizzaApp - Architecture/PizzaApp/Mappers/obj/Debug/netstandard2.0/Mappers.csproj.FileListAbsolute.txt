@@ -1,0 +1,14 @@
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\bin\Debug\netstandard2.0\Mappers.deps.json
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\bin\Debug\netstandard2.0\Mappers.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\bin\Debug\netstandard2.0\Mappers.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\bin\Debug\netstandard2.0\DomainModels.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\bin\Debug\netstandard2.0\ViewModels.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\bin\Debug\netstandard2.0\DomainModels.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\bin\Debug\netstandard2.0\ViewModels.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\obj\Debug\netstandard2.0\Mappers.csprojAssemblyReference.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\obj\Debug\netstandard2.0\Mappers.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\obj\Debug\netstandard2.0\Mappers.AssemblyInfo.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\obj\Debug\netstandard2.0\Mappers.csproj.CoreCompileInputs.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\obj\Debug\netstandard2.0\Mappers.csproj.CopyComplete
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\obj\Debug\netstandard2.0\Mappers.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02_HW\PizzaApp - Architecture\PizzaApp\Mappers\obj\Debug\netstandard2.0\Mappers.pdb

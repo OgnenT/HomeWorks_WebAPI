@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7OuYGSb+wQhwuPgZhMRHFDrro9ds9J0T+yxwCQ0sXqrLj7YFemWndMq1cuSxOn7M5omcaR/v/vEAI+aZePYNNA==",
+  "success": true,
+  "projectFilePath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\HomeWorks_WebAPI\\02_HW\\PizzaApp - Architecture\\PizzaApp\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ognen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

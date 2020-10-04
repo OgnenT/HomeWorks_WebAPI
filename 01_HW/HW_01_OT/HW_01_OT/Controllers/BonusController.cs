@@ -42,12 +42,12 @@ namespace HW_01_OT.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult<User>> DeleteById(int id)
+        public ActionResult<User> DeleteById(int id)
         {
-            var userToDelete = await StaticDB.UsersList.SingleOrDefault(x => x.Id == id);
+            var userToDelete = StaticDB.UsersList.SingleOrDefault(x => x.Id == id);
             if (userToDelete == null)
             {
-                return StatusCode(StatusCodes.Status404NotFound, "No such a suer");
+                return StatusCode(StatusCodes.Status404NotFound, "No such a user");
             }
             StaticDB.UsersList.Remove(userToDelete);
 

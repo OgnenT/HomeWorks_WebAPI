@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "knLojY7UQHFpcKXZ8QYsPnj1AaUc4rII/Vi8jCftbDA5drtYu4U/T3NUtqQx3i7ZcN8vS8+ljvu+qyLMqybUqA==",
+  "success": true,
+  "projectFilePath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\HomeWorks_WebAPI\\02_HW\\PizzaApp - Architecture\\PizzaApp\\ViewModels\\ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ognen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ognen\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

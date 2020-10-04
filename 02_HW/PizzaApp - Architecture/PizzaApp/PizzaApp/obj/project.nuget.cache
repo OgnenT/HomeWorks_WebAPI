@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8O2RMGHEiV2cUTSamdnsH9d0sBGPYjIZJJXnh4WAjBew16P86mHExyr0K6//J70ZpEFk9wraJhz/+NsJDIb0w==",
+  "success": true,
+  "projectFilePath": "D:\\Ognen\\SEDC\\Web API Restful\\HomeWorks_WebApi_OT\\HomeWorks_WebAPI\\02_HW\\PizzaApp - Architecture\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ognen\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
