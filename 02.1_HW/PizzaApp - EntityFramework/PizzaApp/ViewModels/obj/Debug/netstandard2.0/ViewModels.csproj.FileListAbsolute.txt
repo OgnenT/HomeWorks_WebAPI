@@ -1,0 +1,18 @@
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\ViewModels\bin\Debug\netstandard2.0\ViewModels.deps.json
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\ViewModels\bin\Debug\netstandard2.0\ViewModels.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\ViewModels\bin\Debug\netstandard2.0\ViewModels.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.csprojAssemblyReference.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.AssemblyInfo.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\ViewModels\bin\Debug\netstandard2.0\ViewModels.deps.json
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\ViewModels\bin\Debug\netstandard2.0\ViewModels.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\ViewModels\bin\Debug\netstandard2.0\ViewModels.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.csprojAssemblyReference.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.AssemblyInfo.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\ViewModels\obj\Debug\netstandard2.0\ViewModels.pdb

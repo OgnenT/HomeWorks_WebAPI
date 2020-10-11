@@ -1,0 +1,200 @@
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.exe
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.deps.json
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.runtimeconfig.json
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.runtimeconfig.dev.json
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.Views.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.Views.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\DomainModels.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Mappers.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Services.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\ViewModels.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Services.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\ViewModels.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\DomainModels.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Mappers.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.csprojAssemblyReference.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.AssemblyInfo.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.csproj.CoreCompileInputs.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorAssemblyInfo.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorAssemblyInfo.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.TagHelpers.input.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.TagHelpers.output.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorCoreGenerate.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\OrderItem\Add.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\PizzaSize\Details.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\PizzaSize\Edit.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\PizzaSize\Index.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Pizza\Details.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Pizza\Edit.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Pizza\Index.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Size\Details.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Size\Edit.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Size\Index.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorTargetAssemblyInfo.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorTargetAssemblyInfo.cs
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.Views.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.csproj.CopyComplete
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\staticwebassets\PizzaApp.StaticWebAssets.Manifest.cache
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\staticwebassets\PizzaApp.StaticWebAssets.xml
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.dll
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.pdb
+D:\Ognen\SEDC\MVC\skwd8-08-aspnetmvc\g5\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.genruntimeconfig.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.exe
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.deps.json
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.runtimeconfig.json
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.runtimeconfig.dev.json
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.Views.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\PizzaApp.Views.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\DomainModels.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Mappers.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Services.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\ViewModels.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Services.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\ViewModels.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\DomainModels.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\bin\Debug\netcoreapp3.1\Mappers.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.csprojAssemblyReference.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.AssemblyInfoInputs.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.AssemblyInfo.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.csproj.CoreCompileInputs.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorAssemblyInfo.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorAssemblyInfo.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.TagHelpers.input.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.TagHelpers.output.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorCoreGenerate.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Details.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\OrderItem\Add.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\PizzaSize\Details.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\PizzaSize\Edit.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\PizzaSize\Index.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Pizza\Details.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Pizza\Edit.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Pizza\Index.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Size\Details.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Size\Edit.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\Size\Index.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorTargetAssemblyInfo.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.RazorTargetAssemblyInfo.cs
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.Views.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.csproj.CopyComplete
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\staticwebassets\PizzaApp.StaticWebAssets.Manifest.cache
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\staticwebassets\PizzaApp.StaticWebAssets.xml
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.dll
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.pdb
+D:\Ognen\SEDC\Web API Restful\HomeWorks_WebApi_OT\HomeWorks_WebAPI\02.1_HW\PizzaApp - EntityFramework\PizzaApp\PizzaApp\obj\Debug\netcoreapp3.1\PizzaApp.genruntimeconfig.cache
